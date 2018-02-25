@@ -1,0 +1,24 @@
+{
+  "name": "babel-plugin-styled-components-important",
+  "version": "0.0.1",
+  "description":
+    "babel loader for styled-components which adds !important to all styles",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url":
+      "git+https://github.com/enzoborgfrantz/babel-plugin-styled-components-important.git"
+  },
+  "keywords": ["babel", "styled-components"],
+  "author": "enzo borg frantz",
+  "license": "MIT",
+  "bugs": {
+    "url":
+      "https://github.com/enzoborgfrantz/babel-plugin-styled-components-important/issues"
+  },
+  "homepage":
+    "https://github.com/enzoborgfrantz/babel-plugin-styled-components-important#readme"
+}
